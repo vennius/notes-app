@@ -49,7 +49,7 @@ body {
 }
 
 .btn-save{
-  background: url(https://cdn-icons.flaticon.com/png/512/2874/premium/2874091.png?token=exp=1640146742~hmac=d61a3113b124eb3bd3efac472fe0673d);
+  background: url(save.png);
   background-size: cover;
   transition: .3s;
 }
@@ -59,19 +59,15 @@ body {
 }*/
 
 .btn-edit{
-  background: url(https://cdn-icons.flaticon.com/png/512/2985/premium/2985068.png?token=exp=1640147446~hmac=00972198a0b2990654bfbe30ff02dd33);
+  background: url(edit.png);
   background-size: cover;
 }
 
 .btn-min{
-  background: url(https://cdn-icons-png.flaticon.com/512/1214/1214428.png);
+  background: url(trash.png);
   background-size: cover;
 }
 
-.btn-plus{
-  background: url(https://cdn-icons-png.flaticon.com/512/992/992651.png);
-  background-size: cover;
-}
 
 .disabled-input{
   pointer-events: none;
