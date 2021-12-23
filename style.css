@@ -7,7 +7,7 @@ body {
   width: 325px;
   height: 500px;
   margin: 50px auto;
-  background: #ECFAF5;
+  background: #c8ede0;
   border: 3px solid black;
   overflow: hidden;
   border-radius: 15px;
@@ -49,7 +49,7 @@ body {
 }
 
 .btn-save{
-  background: url(save.png);
+  background: url(https://cdn-icons.flaticon.com/png/512/2874/premium/2874091.png?token=exp=1640146742~hmac=d61a3113b124eb3bd3efac472fe0673d);
   background-size: cover;
   transition: .3s;
 }
@@ -59,7 +59,7 @@ body {
 }*/
 
 .btn-edit{
-  background: url(edit.png);
+  background: url(https://cdn-icons.flaticon.com/png/512/2985/premium/2985068.png?token=exp=1640147446~hmac=00972198a0b2990654bfbe30ff02dd33);
   background-size: cover;
 }
 
@@ -78,15 +78,15 @@ body {
 }
 
 .add-button{
-  width: 75px;
-  height: 20px;
-  background: #bff2db;
+  background: url(add.png);
+  width: 40px;
+  height: 40px;
+  background-size: cover;
+  padding: 15px;
   font-size: 15px;
   padding: 5px;
   text-align: center;
   margin: 10px auto;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.3);
   transition: .3s;
 }
 
