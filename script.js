@@ -1,4 +1,3 @@
-//localstorage
 const textareaEl = document.querySelectorAll('textarea');
 const addBtn = document.querySelector('.add-button');
 //const test = document.querySelector('.container');
